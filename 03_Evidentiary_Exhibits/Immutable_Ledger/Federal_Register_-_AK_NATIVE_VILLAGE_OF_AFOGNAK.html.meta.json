@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+AFOGNAK",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+NATIVE+VILLAGE+OF+AFOGNAK",
+  "title": "Federal Register - AK NATIVE VILLAGE OF AFOGNAK",
+  "fetched_at": "2026-11-23T16:07:20.693722Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 241988,
+  "sha256": "c4f087106c100ba2348a564724dde6909b4ff69a40b49dd551e5e0c8ef1281d4",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
